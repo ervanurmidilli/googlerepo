@@ -26,8 +26,31 @@ input[type="text"] {
 .search {
   margin: 5px 20px 0px 40px;
 }
-.xoxo {
-  background-color: aqua;
-  width: 200px;
-  padding-left: 30px;
+
+.tbl2 {
+  align-items: center;
+  width: 319px;
+  height: 114px;
+}
+.td1 {
+  align-items: center;
+  background-color: #7ee5da;
+  width: 112px;
+  height: 83px;
+}
+.td2 {
+  align-items: center;
+  background-color: #70ccc2;
+}
+.td3 {
+  align-items: center;
+  background-color: #62b3aa;
+}
+.bg-grey {
+  background-color: #f0e9e9;
+  width: 700px;
+  margin: auto;
+}
+.txt-2 {
+  width: 169x;
 }
