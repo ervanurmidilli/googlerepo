@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  width: 351px;
+  height: 113px;
+  background-color: aqua;
+  /* margin-left: auto;
+  margin-right: auto; */
+  margin: 8px auto;
+}
+h3 {
+  text-align: center;
+  margin-top: 5px;
+  color: rgb(70, 70, 70);
+}
+input[type="text"] {
+  margin-left: 10px;
+  width: 309px;
+  height: 15px;
+}
+.lucky {
+  margin: 5px 20px;
+}
+.search {
+  margin: 5px 20px 0px 40px;
+}
+.xoxo {
+  background-color: aqua;
+  width: 200px;
+  padding-left: 30px;
+}
